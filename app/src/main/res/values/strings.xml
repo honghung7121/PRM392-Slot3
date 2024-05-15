@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Slot3</string>
+    <string-array name="country_array">
+        <item>Việt Nam</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <!-- Add more here -->
+    </string-array>
+</resources>
